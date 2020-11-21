@@ -1,8 +1,0 @@
-- 🔭 I’m currently working on Discount Coupons Management System.
-- 🌱 I’m currently learning SpringBoot.
-- 👯 I’m looking to collaborate on Gmail, WhatsApp or Skype.
-- 🤔 I’m looking for help with Java 8 Lambdas.
-- 💬 Ask me about Java, SpringBoot, SQL and Angular.
-- 📫 How to reach me: Avi.Kurt.95@gmail.com / 053-725-8350 / https://join.skype.com/invite/doUlTjntIi1T
-- 😄 Pronouns: He/His.
-- ⚡ Fun fact: Addicted to Chocolate.
