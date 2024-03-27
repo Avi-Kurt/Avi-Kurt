@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Avi-Kurt
-- 👀 I’m interested in Back-End Spring Boot Development.
-- 🌱 I’m currently learning MQTT Protocol & Python.
-- 💖 Happy to be Part of an Amazing company that contributes
-to a better future.
+- 👀 I’m interested in Java Backdnd Spring Boot Development Projects.
+- 🌱 I’m currently learning the MQTT Protocol.
+- 💖 Happy to be Part of an Amazing company that contributes to a better future.
